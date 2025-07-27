@@ -3,7 +3,7 @@
 
 **Institution**: MSc in Data Science, The American College of Greece  
 
-**Semester**: Spring 2025  
+**Term**: Spring 2025  
 
 This repository contains deliverables for the course *Project Management in Data Science*. 
 
